@@ -9,6 +9,11 @@
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-5 Le damos la bienvenida al componente formativo denominado #[span.p-1(style="background-color: #C3EBDF") “Fundamentos y aplicaciones de riesgo de seguridad orientada a aplicaciones web”], el cual hace parte del programa de formación técnico “Seguridad en aplicaciones web”, para lo cual se invita a observar el siguiente video:
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
