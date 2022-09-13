@@ -10,7 +10,7 @@
     p Se invita a ampliar el conocimiento sobre los riesgos informáticos, a través del siguiente video:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BPJGzZASDi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Dentro de los métodos de identificación de riesgos, la organización debe clasificar los tipos de riesgos en altos, medios y bajos; en este caso, en las aplicaciones web se revisan varios factores como, el lenguaje de programación y la arquitectura del software para poder empezar a analizar y trabajar sobre las posibles amenazas o vulnerabilidades. 
 
