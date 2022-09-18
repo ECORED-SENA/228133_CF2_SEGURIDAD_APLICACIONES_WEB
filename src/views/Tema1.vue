@@ -10,7 +10,7 @@
     .d-flex.flex-wrap.mb-5.bg-gradient
       .col-xl-7.order-2.order-xl-1.pe-xl-4
         p.position-relative(style="z-index: 1;") La ciberseguridad, también conocida como seguridad informática o seguridad digital, es el área relacionada con la informática y telemática en la protección de la infraestructura computacional, ya sea una máquina o el parque computacional de una organización 
-        p.position-relative(style="z-index: 1;") La ciberseguridad se emplea en todo tipo de empresas públicas y privadas siendo aplicada en proyectos como: #[em home office] o teletrabajo, videoconferencias; cuando se habla de ciberseguridad abarca muchas líneas o áreas una de ellas es la seguridad en aplicaciones web y parte de las generalidades que en Colombia están enmarcadas en el Conpes 3701 de 2011 desarrollado por los Ministerios de Interior y de Justicia, Relaciones Exteriores, Defensa Nacional, Tecnologías de la Información y las Comunicaciones, Departamento Administrativo de Seguridad, Departamento Nacional de Planeación-DJSG-DIFP-DIES-OI, Fiscalía General, y que busca impulsar lineamientos de política en ciberseguridad y ciberdefensa orientados a desarrollar una estrategia nacional que contrarreste el incremento de las amenazas informáticas que afectan significativamente; por lo que se crea el grupo de respuesta a emergencias cibernéticas de Colombia colCERT.
+        p.position-relative(style="z-index: 1;") La ciberseguridad se emplea en todo tipo de empresas públicas y privadas siendo aplicada en proyectos como: #[em home office] o teletrabajo, videoconferencias; cuando se habla de ciberseguridad abarca muchas líneas o áreas una de ellas es la seguridad en aplicaciones <em>web</em> y parte de las generalidades que en Colombia están enmarcadas en el Conpes 3701 de 2011 desarrollado por los Ministerios de Interior y de Justicia, Relaciones Exteriores, Defensa Nacional, Tecnologías de la Información y las Comunicaciones, Departamento Administrativo de Seguridad, Departamento Nacional de Planeación-DJSG-DIFP-DIES-OI, Fiscalía General, y que busca impulsar lineamientos de política en ciberseguridad y ciberdefensa orientados a desarrollar una estrategia nacional que contrarreste el incremento de las amenazas informáticas que afectan significativamente; por lo que se crea el grupo de respuesta a emergencias cibernéticas de Colombia colCERT.
       .col.xl-5.order-1.order-xl-2.mb-4.mb-xl-0
         img.position-relative.mx-auto(src="@/assets/curso/temas/tema1/img-1.png" style="max-width: 505px; z-index: 1;;")
 
@@ -31,13 +31,13 @@
 
     .d-flex.flex-wrap.mb-5
       img.mb-auto(src="@/assets/curso/temas/tema1/img-2.svg" style="max-width: 85px")
-      p.col.mb-0.ps-4 La seguridad en aplicaciones web se considera como una rama de la ciberseguridad donde la misma busca preservar la integridad, confidencialidad y disponibilidad de la información.
+      p.col.mb-0.ps-4 La seguridad en aplicaciones <em>web</em> se considera como una rama de la ciberseguridad donde la misma busca preservar la integridad, confidencialidad y disponibilidad de la información.
         br
         br
-        |Hoy en día, las empresas que están a la vanguardia de la transformación digital y en plena cuarta Revolución Industrial deben blindarse y proteger sus aplicaciones web, pero sobre todo el activo más importante dentro de una organización: la información que ingresa día a día y se puede verse afectada por diversas técnicas de #[em hacking] y los ataques informáticos que en Colombia y el mundo van en gran aumento. 
+        |Hoy en día, las empresas que están a la vanguardia de la transformación digital y en plena cuarta Revolución Industrial deben blindarse y proteger sus aplicaciones <em>web</em>, pero sobre todo el activo más importante dentro de una organización: la información que ingresa día a día y se puede verse afectada por diversas técnicas de #[em hacking] y los ataques informáticos que en Colombia y el mundo van en gran aumento. 
     img.mb-5(src="@/assets/curso/temas/tema1/img-3.jpg")
 
-    p.mb-5 Es importante tener en cuenta que dentro de la ciberseguridad los principios de seguridad son la confidencialidad, integridad y disponibilidad 
+    p.mb-5 Es importante tener en cuenta que dentro de la ciberseguridad los principios de seguridad son la confidencialidad, integridad y disponibilidad.
 
     .d-flex.flex-wrap.align-items-end.mb-5(style="border-top-right-radius: 109px; background-color: #DFE4FA;")
       img.mb-4.col-xl-6.mb-4.mb-xl-0(src="@/assets/curso/temas/tema1/img-4.svg")

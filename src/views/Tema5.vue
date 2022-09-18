@@ -13,7 +13,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-1.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Gracias a internet el mundo vive interconectado; así, el protocolo TCP/IP se encarga de que cada ordenador, dispositivo móvil y servicio web disponible a través de internet cuente con una dirección IP exclusiva como 92.183.215.3. Así, el sistema DNS “indica”, con ayuda del servidor de nombres, esta dirección en un dominio como, por ejemplo, www.example.org, que al ojo humano le resulta más sencillo de leer. Este proceso también se denomina resolución de nombres.
+          p.mb-0 Gracias a internet el mundo vive interconectado; así, el protocolo TCP/IP se encarga de que cada ordenador, dispositivo móvil y servicio <em>web</em> disponible a través de internet cuente con una dirección IP exclusiva como 92.183.215.3. Así, el sistema DNS “indica”, con ayuda del servidor de nombres, esta dirección en un dominio como, por ejemplo, www.example.org, que al ojo humano le resulta más sencillo de leer. Este proceso también se denomina resolución de nombres.
     p.mb-5 A continuación, se podrán conocer algunos de estos protocolos de seguridad y privacidad: 
 
     .titulo-sexto.color-acento-contenido
@@ -59,7 +59,7 @@
             td en
             td example
             td org
-            td.text-start dirección para proyecto web.
+            td.text-start dirección para proyecto <em>web</em>.
     p.mb-5 Así como la tabla de los dominios, se deben tener en cuenta los protocolos de aplicaciones oficiales de internet que se pueden usar.
 
 

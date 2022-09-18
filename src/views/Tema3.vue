@@ -9,23 +9,23 @@
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.order-2.order-xl-1
-        p Las auditorías informáticas internas o externas siempre son recomendadas para prevenir pérdidas o fugas de información y económicas en todos los aspectos (sanciones, ventas, ingresos, clientes, entre otros) para la organización; por ello, en cualquier infraestructura tecnológica estas auditorías se deben realizar al #[em hardware] por los requerimientos técnicos de la aplicación, en este caso, y el #[em software] para el análisis de vulnerabilidades o actualizaciones a los componentes de este garantizando la seguridad y confianza en las aplicaciones web. 
+        p Las auditorías informáticas internas o externas siempre son recomendadas para prevenir pérdidas o fugas de información y económicas en todos los aspectos (sanciones, ventas, ingresos, clientes, entre otros) para la organización; por ello, en cualquier infraestructura tecnológica estas auditorías se deben realizar al #[em hardware] por los requerimientos técnicos de la aplicación, en este caso, y el #[em software] para el análisis de vulnerabilidades o actualizaciones a los componentes de este garantizando la seguridad y confianza en las aplicaciones <em>web</em>. 
           br
           br
-          |Se deben tener en cuenta los aspectos técnicos de la aplicación, sin embargo se han elegido cuatro tipos de auditorías en aplicaciones web, a saber:
+          |Se deben tener en cuenta los aspectos técnicos de la aplicación, sin embargo se han elegido cuatro tipos de auditorías en aplicaciones <em>web</em>, a saber:
       img.col-xl-4.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src="@/assets/curso/temas/tema3/img-1.jpg" style="max-width: 400px;")
 
     SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría SEO
-          p(style="max-width: 512px") En este tipo de auditoría se revisa el posicionamiento o la indexación que se analiza frente a la búsqueda, se estudian los enlaces, el contenido, marketing digital frente al posicionamiento en las redes sociales y el análisis de comparaciones con las posibles competencias.
+          p(style="max-width: 512px") En este tipo de auditoría se revisa el posicionamiento o la indexación que se analiza frente a la búsqueda, se estudian los enlaces, el contenido, <em>marketing</em> digital frente al posicionamiento en las redes sociales y el análisis de comparaciones con las posibles competencias.
         img.col-xl-4.order-1.order-xl-2.mx-auto(src='@/assets/curso/temas/tema3/img-4.svg' style="max-width: 400px")
       
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría de seguridad
-          p(style="max-width: 512px") En este tipo de auditoría se revisa el estado del servidor, el sistema operativo y que los mismos se encuentren en buenas condiciones de hardware y con sus actualizaciones al día. Se analizan las posibles vulnerabilidades informáticas detectadas existentes y analizar que no se tengan fugas de información y se cumpla con la Ley de Protección de Datos.
+          p(style="max-width: 512px") En este tipo de auditoría se revisa el estado del servidor, el sistema operativo y que los mismos se encuentren en buenas condiciones de <em>hardware</em> y con sus actualizaciones al día. Se analizan las posibles vulnerabilidades informáticas detectadas existentes y analizar que no se tengan fugas de información y se cumpla con la Ley de Protección de Datos.
         img.col-xl-4.order-1.order-xl-2.mx-auto(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 400px")
       
       .d-flex.flex-wrap.col-xl-11.mx-auto
@@ -39,7 +39,7 @@
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría de rendimiento
-          p(style="max-width: 512px") En esta auditoría se enfoca en analizar y estudiar la velocidad de conectividad de cargas en la aplicación web, se puede recomendar cambiar a mejores servidores donde se aloja el proyecto. 
+          p(style="max-width: 512px") En esta auditoría se enfoca en analizar y estudiar la velocidad de conectividad de cargas en la aplicación <em>web</em>, se puede recomendar cambiar a mejores servidores donde se aloja el proyecto. 
         img.col-xl-4.order-1.order-xl-2.mx-auto(src='@/assets/curso/temas/tema3/img-7.svg' style="max-width: 400px")
       
 
@@ -55,7 +55,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 #[b Ley 527 de 1999]
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro.px-4(:href="obtenerLink('downloads/COMPUESTO_133303.xlsx')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro.px-4(href="https://www.mindeporte.gov.co/recursos_user/2019/Juridica/Normograma/Leyes/Ley-527-de-1999.pdf" target="_blank")
                     span Ir al enlace
       img.col-xl-4.mx-auto.mb-4.mb-xl-0.order-1.order-xl-2(src="@/assets/curso/temas/tema3/img-2.jpg" style="max-width: 400px")
     

@@ -12,7 +12,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/BPJGzZASDi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 Dentro de los métodos de identificación de riesgos, la organización debe clasificar los tipos de riesgos en altos, medios y bajos; en este caso, en las aplicaciones web se revisan varios factores como, el lenguaje de programación y la arquitectura del software para poder empezar a analizar y trabajar sobre las posibles amenazas o vulnerabilidades. 
+    p.mb-5 Dentro de los métodos de identificación de riesgos, la organización debe clasificar los tipos de riesgos en altos, medios y bajos; en este caso, en las aplicaciones <em>web</em> se revisan varios factores como, el lenguaje de programación y la arquitectura del <em>software</em> para poder empezar a analizar y trabajar sobre las posibles amenazas o vulnerabilidades. 
 
     .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem; background: linear-gradient(0deg, rgba(17,31,79,1) 0%, rgba(46,82,212,1) 100%)" data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -30,7 +30,7 @@
     p.mb-5  En el siguiente recurso se podrán conocer las técnicas de #[em hacking] utilizadas por los ciberdelincuentes:
     .col-xl-10.mx-auto.mb-5
       img(src="@/assets/curso/temas/tema2/img-1.jpg")
-      p.px-4.py-3(style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; background: linear-gradient(180deg, rgba(255,255,255,.73) 0%, rgba(210,240,231,1) 100%)") El pirata informático mediante vectores de ataque, utiliza técnicas de hacking e ingeniería social, revisa y analiza las debilidades de seguridad de la aplicación o sistema de información, revisa los controles de seguridad con que cuenta la herramienta o la infraestructura y los impactos, buscando el objetivo final: afectar el negocio de la organización.
+      p.px-4.py-3(style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; background: linear-gradient(180deg, rgba(255,255,255,.73) 0%, rgba(210,240,231,1) 100%)") El pirata informático mediante vectores de ataque, utiliza técnicas de #[em hacking] e ingeniería social, revisa y analiza las debilidades de seguridad de la aplicación o sistema de información, revisa los controles de seguridad con que cuenta la herramienta o la infraestructura y los impactos, buscando el objetivo final: afectar el negocio de la organización.
 
     .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem; background: linear-gradient(0deg, rgba(17,31,79,1) 0%, rgba(46,82,212,1) 100%)" data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -41,25 +41,25 @@
             .col.mb-3.mb-sm-0
               h3.texto-blanco.mb-1 Norma ISO 27005
             .col-sm-auto
-              a.boton.color-acento-botones.texto-negro.px-4(href="" target="_blank")
+              a.boton.color-acento-botones.texto-negro.px-4(href="https://sisteseg.com/blog/wp-content/uploads/2018/11/Metodologia-para-Gesti%C3%B3n-de-Riesgos-V-1.0.pdf" target="_blank")
                 span Ir al enlace
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      p.col-xl-8.order-2.order-xl-1 El comercio electrónico que en Colombia está reglamentado a través de la Ley 527 de 1999 ha sido uno de los factores que ha llevado a las empresas a tener un crecimiento económico, pues dentro de la transformación digital una de las líneas de medición es la venta por medio de canales digitales o aplicaciones web.
+      p.col-xl-8.order-2.order-xl-1 El comercio electrónico que en Colombia está reglamentado a través de la Ley 527 de 1999 ha sido uno de los factores que ha llevado a las empresas a tener un crecimiento económico, pues dentro de la transformación digital una de las líneas de medición es la venta por medio de canales digitales o aplicaciones <em>web</em>.
         br
         br
-        |Pero también existen diferentes factores de ataques en los que está la suplantación que es muy común en este tipo de aplicaciones web donde un pirata informático podrá alterar el contenido de una cookie y redireccionarlo a un servidor diferente. 
+        |Pero también existen diferentes factores de ataques en los que está la suplantación que es muy común en este tipo de aplicaciones <em>web</em> donde un pirata informático podrá alterar el contenido de una cookie y redireccionarlo a un servidor diferente. 
       img.col-xl-4.mb-4.mb-xl-0.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-2.svg")
     .d-flex.mb-5
-      p.px-4.py-2.fw-bold(style="background-color: #A6E6CA") Metodología o estándar para identificar riesgos en aplicaciones web
+      p.px-4.py-2.fw-bold(style="background-color: #A6E6CA") Metodología o estándar para identificar riesgos en aplicaciones <em>web</em>
     
     .d-flex.flex-wrap.mb-5
       img.col-xl-4.mx-auto.mb-4.mb-xl-0(src="@/assets/curso/temas/tema2/img-3.jpg")
       .col-xl-8.ps-xl-4
-        p.mb-4 Una metodología para identificar riesgos en aplicaciones web, podría ser a través de una matriz de riesgo de seguridad de la información, esta herramienta permite analizar o dar valor a los riesgos. 
+        p.mb-4 Una metodología para identificar riesgos en aplicaciones <em>web</em>, podría ser a través de una matriz de riesgo de seguridad de la información, esta herramienta permite analizar o dar valor a los riesgos. 
           br
           br
-          |La matriz de riesgos 3 X 3 permite clasificar y valorar las diferentes vulnerabilidades comunes según la metodología OWASP dentro de las aplicaciones de sitios web de la siguiente manera:
+          |La matriz de riesgos 3 X 3 permite clasificar y valorar las diferentes vulnerabilidades comunes según la metodología OWASP dentro de las aplicaciones de sitios <em>web</em> de la siguiente manera:
         .tarjeta.color-acento-contenido.px-3.py-2.mb-5(style="background: linear-gradient(180deg, #FEEEDD 0%, #F38E1E 100%)" data-aos="fade")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -67,17 +67,17 @@
             .col.ps-lg-5
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 #[b Anexo: ] Matriz Riesgos
+                  p.mb-0 Matriz Riesgos
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/COMPUESTO_133303.xlsx')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/matrizRiesgos_pdf.docx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
-    p.mb-5 Con la metodología Open Web Application Security Project (OWASP) se pueden aplicar técnicas de evaluación, tipos de controles frente a los riesgos, aplicar métodos de medición de controles y localizar vulnerabilidades.
+    p.mb-5 Con la metodología <em>Open Web Application Security Project</em> (OWASP) se pueden aplicar técnicas de evaluación, tipos de controles frente a los riesgos, aplicar métodos de medición de controles y localizar vulnerabilidades.
 
     img.mb-5(src="@/assets/curso/temas/tema2/img-4.jpg")
 
-    p.mb-5 Las diferentes acciones que se tomen ayudarían a jerarquizar el impacto, es importante que las aplicaciones en sitios web se corran en dominios aptos y seguros para la protección de la información de los usuarios.
+    p.mb-5 Las diferentes acciones que se tomen ayudarían a jerarquizar el impacto, es importante que las aplicaciones en sitios <em>web</em> se corran en dominios aptos y seguros para la protección de la información de los usuarios.
 
     .d-flex.mb-5
       p.px-4.py-2.fw-bold(style="background-color: #A6E6CA") Modelo OSI en la capa 7
@@ -100,10 +100,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-6.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 #[span.p-1.fw-bold(style="background-color: #C3EBDF") La inseguridad] se enuncia en procesos de la composición de los resultados de un suceso y, 
-            br
-            br
-            |#[span.p-1.fw-bold(style="background-color: #C3EBDF") la probabilidad de ocurrencia] está asociada a las fuentes de riesgos, comportamiento humano (interno y externo), comercio, economía y mercado, circunstancias políticas, tecnología, eventos naturales y, finalmente, organizacionales.
+          p.mb-0 #[span.p-1.fw-bold(style="background-color: #C3EBDF") La inseguridad] se enuncia en procesos de la composición de los resultados de un suceso y, #[span.p-1.fw-bold(style="background-color: #C3EBDF") la probabilidad de ocurrencia] está asociada a las fuentes de riesgos, comportamiento humano (interno y externo), comercio, economía y mercado, circunstancias políticas, tecnología, eventos naturales y, finalmente, organizacionales.
       p Dentro de la gestión del riesgo de seguridad de la información se debe proteger la empresa ante las posibles consecuencias como pérdidas de confidencialidad, integridad, disponibilidad… también se tienen otras como no-repudio, autenticidad, o confiabilidad de los activos, el incumplimiento de la legislación, pérdidas financieras, impacto de orden público, impactos de orden internacional. 
     p.mb-5 A continuación, se invita a conocer el ciclo PHVA, según la #[em Guía de gestión de riesgos de seguridad de la información], presentada por el Icontec:
 
@@ -120,21 +117,21 @@
         .tarjeta-hover-color
           .header-img.p-3.p-lg-5
             img.mx-auto(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 105px;")
-            h3(style="border-radius: 50px; background-color: white;") Controles preventivos
+            h3(style="display: block; border-radius: 50px; background-color: white;") Controles preventivos
           .body-text.p-4
             p Estos se anticipan a los eventos no deseados antes de que sucedan. 
       .col-md-6.col-lg-4.px-md-3
         .tarjeta-hover-color
           .header-img.p-3.p-lg-5
             img.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 105px;")
-            h3(style="border-radius: 50px; background-color: white;") Controles detectivos
+            h3(style="display: block; border-radius: 50px; background-color: white;") Controles detectivos
           .body-text.p-4
             p Permiten identificar eventos en el momento en el que se presentan. 
       .col-md-6.col-lg-4.px-md-3
         .tarjeta-hover-color
           .header-img.p-3.p-lg-5
             img.mx-auto(src="@/assets/curso/temas/tema2/img-10.svg" style="max-width: 105px;")
-            h3(style="border-radius: 50px; background-color: white;") Controles correctivos
+            h3(style="display: block; border-radius: 50px; background-color: white;") Controles correctivos
           .body-text.p-4
             p Se caracterizan por la toma de acciones para prevenir eventos no deseados.
 
