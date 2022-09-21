@@ -48,7 +48,7 @@
       p.col-xl-8.order-2.order-xl-1 El comercio electrónico que en Colombia está reglamentado a través de la Ley 527 de 1999 ha sido uno de los factores que ha llevado a las empresas a tener un crecimiento económico, pues dentro de la transformación digital una de las líneas de medición es la venta por medio de canales digitales o aplicaciones <em>web</em>.
         br
         br
-        |Pero también existen diferentes factores de ataques en los que está la suplantación que es muy común en este tipo de aplicaciones <em>web</em> donde un pirata informático podrá alterar el contenido de una cookie y redireccionarlo a un servidor diferente. 
+        |Pero también existen diferentes factores de ataques en los que está la suplantación que es muy común en este tipo de aplicaciones <em>web</em> donde un pirata informático podrá alterar el contenido de una <em>cookie</em> y redireccionarlo a un servidor diferente. 
       img.col-xl-4.mb-4.mb-xl-0.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-2.svg")
     .d-flex.mb-5
       p.px-4.py-2.fw-bold(style="background-color: #A6E6CA") Metodología o estándar para identificar riesgos en aplicaciones <em>web</em>
