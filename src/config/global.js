@@ -110,11 +110,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -240,12 +240,6 @@ export default {
         'Congreso de Colombia. (2009). Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones".',
       link:
         'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
-    },
-    {
-      referencia:
-        'Congreso de Colombia, C. (2012). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.',
-      link:
-        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
     },
     {
       referencia: 'DNP. (2011). Conpes 3701.',
