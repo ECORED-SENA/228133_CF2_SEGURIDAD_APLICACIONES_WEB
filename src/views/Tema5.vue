@@ -12,16 +12,16 @@
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-1.jpg')})`}"
         )
-        .bloque-texto-g__texto.p-4
+        .bloque-texto-g__texto.p-4(data-aos="fade-left")
           p.mb-0 Gracias a internet el mundo vive interconectado; así, el protocolo TCP/IP se encarga de que cada ordenador, dispositivo móvil y servicio <em>web</em> disponible a través de internet cuente con una dirección IP exclusiva como 92.183.215.3. Así, el sistema DNS “indica”, con ayuda del servidor de nombres, esta dirección en un dominio como, por ejemplo, www.example.org, que al ojo humano le resulta más sencillo de leer. Este proceso también se denomina resolución de nombres.
-    p.mb-5 A continuación, se podrán conocer algunos de estos protocolos de seguridad y privacidad: 
+    p.mb-5(data-aos="fade-right") A continuación, se podrán conocer algunos de estos protocolos de seguridad y privacidad: 
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Dominios
     
     .tabla-a.color-acento-contenido.mb-5 
-      table
+      table(data-aos="fade-left")
         thead(style="background-color: #6ACEAE")
           tr
             th(style="border: none") Protocolo
@@ -60,39 +60,39 @@
             td example
             td org
             td.text-start dirección para proyecto <em>web</em>.
-    p.mb-5 Así como la tabla de los dominios, se deben tener en cuenta los protocolos de aplicaciones oficiales de internet que se pueden usar.
+    p.mb-5(data-aos="fade-right") Así como la tabla de los dominios, se deben tener en cuenta los protocolos de aplicaciones oficiales de internet que se pueden usar.
 
 
     .d-flex.flex-wrap.align-items-center
       .col-12.col-lg-6.px-3
         .d-flex.mb-3.w-100(style="background-color: #FFF4D6")
-          img(src="@/assets/curso/temas/tema5/img-2.svg" style="max-width: 190px")
-          p.p-3.mb-0 #[b Domain Name Protocol ]
+          img(src="@/assets/curso/temas/tema5/img-2.svg" data-aos="fade-right" style="max-width: 190px")
+          p.p-3.mb-0(data-aos="fade-left") #[b Domain Name Protocol ]
             br
             br
             |(Protocolo de nombres de dominio).
         .d-flex.mb-3.w-100(style="background-color: #FFF4D6")
-          img(src="@/assets/curso/temas/tema5/img-3.svg" style="max-width: 190px")
-          p.p-3.mb-0 #[b Exterior Gateway Protocol ]
+          img(src="@/assets/curso/temas/tema5/img-3.svg" data-aos="fade-right" style="max-width: 190px")
+          p.p-3.mb-0(data-aos="fade-left") #[b Exterior Gateway Protocol ]
             br
             br
             |(Protocolo de pasarela exterior).
       .col-12.col-lg-6.px-3
         .d-flex.mb-3.w-100(style="background-color: #FFF4D6")
-          img(src="@/assets/curso/temas/tema5/img-4.svg" style="max-width: 190px")
-          p.p-3.mb-0 #[b File Transfer Protocol]
+          img(src="@/assets/curso/temas/tema5/img-4.svg" data-aos="fade-right" style="max-width: 190px")
+          p.p-3.mb-0(data-aos="fade-left") #[b File Transfer Protocol]
             br
             br
             |(Protocolo de transferencia de archivos).
         .d-flex.mb-3.w-100(style="background-color: #FFF4D6")
-          img(src="@/assets/curso/temas/tema5/img-5.svg" style="max-width: 190px")
-          p.p-3.mb-0 #[b Name/Finger Protocol ]
+          img(src="@/assets/curso/temas/tema5/img-5.svg" data-aos="fade-right" style="max-width: 190px")
+          p.p-3.mb-0(data-aos="fade-left") #[b Name/Finger Protocol ]
             br
             br
             |(Protocolo de nombres/finger).
         .d-flex.mb-3.w-100(style="background-color: #FFF4D6")
-          img(src="@/assets/curso/temas/tema5/img-6.svg" style="max-width: 190px")
-          p.p-3.mb-0 #[b Telnet Protocol ]
+          img(src="@/assets/curso/temas/tema5/img-6.svg" data-aos="fade-right" style="max-width: 190px")
+          p.p-3.mb-0(data-aos="fade-left") #[b Telnet Protocol ]
             br
             br
             |(Protocolo Telnet).

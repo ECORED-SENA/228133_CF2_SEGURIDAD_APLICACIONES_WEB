@@ -13,7 +13,7 @@ export default {
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/float-2.svg'),
+        imagen: require('@/assets/curso/portada/float-2.png'),
       },
     ],
   },
