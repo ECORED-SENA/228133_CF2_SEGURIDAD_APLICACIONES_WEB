@@ -16,27 +16,27 @@
       img.col-xl-4.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-left" style="max-width: 400px;")
 
     SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
-      .d-flex.flex-wrap.col-xl-11.mx-auto
+      .d-flex.flex-wrap.col-xl-11.mx-auto.px-3
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría SEO
           p(style="max-width: 512px") En este tipo de auditoría se revisa el posicionamiento o la indexación que se analiza frente a la búsqueda, se estudian los enlaces, el contenido, <em>marketing</em> digital frente al posicionamiento en las redes sociales y el análisis de comparaciones con las posibles competencias.
         img.col-xl-4.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema3/img-4.svg' style="max-width: 400px")
       
-      .d-flex.flex-wrap.col-xl-11.mx-auto
+      .d-flex.flex-wrap.col-xl-11.mx-auto.px-3
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría de seguridad
           p(style="max-width: 512px") En este tipo de auditoría se revisa el estado del servidor, el sistema operativo y que los mismos se encuentren en buenas condiciones de <em>hardware</em> y con sus actualizaciones al día. Se analizan las posibles vulnerabilidades informáticas detectadas existentes y analizar que no se tengan fugas de información y se cumpla con la Ley de Protección de Datos.
         img.col-xl-4.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 400px")
       
-      .d-flex.flex-wrap.col-xl-11.mx-auto
+      .d-flex.flex-wrap.col-xl-11.mx-auto.px-3
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría de usabilidad y accesibilidad
-          p(style="max-width: 512px") Es una de las auditorías más complejas, ya que en la misma se ayuda a detectar el mal funcionamiento la conectividad y tiempos de respuesta de la aplicación.
+          p(style="max-width: 512px") Es una de las auditorías más complejas, ya que en la misma se ayuda a detectar el mal funcionamiento, la conectividad y tiempos de respuesta de la aplicación.
             br
-            |Además, se suelen utilizar herramientas de seguimiento que generan mapas de calor en conectividad y pruebas de testing desde varios dispositivos al tiempo. 
+            |Además, se suelen utilizar herramientas de seguimiento que generan mapas de calor en conectividad y pruebas de <em>testing</em> desde varios dispositivos al tiempo. 
         img.col-xl-4.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema3/img-6.svg' style="max-width: 400px")
       
-      .d-flex.flex-wrap.col-xl-11.mx-auto
+      .d-flex.flex-wrap.col-xl-11.mx-auto.px-3
         .col-xl-8.pe-xl-3.order-2.order-xl-1
           h4 Auditoría de rendimiento
           p(style="max-width: 512px") En esta auditoría se enfoca en analizar y estudiar la velocidad de conectividad de cargas en la aplicación <em>web</em>, se puede recomendar cambiar a mejores servidores donde se aloja el proyecto. 

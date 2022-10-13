@@ -22,7 +22,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Modelo informe de auditoría
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro.px-4(:href="obtenerLink('downloads/auditoria_PDF.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro.px-4(:href="obtenerLink('downloads/auditoria_PDF.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-xl-5.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto.mx-xl-0

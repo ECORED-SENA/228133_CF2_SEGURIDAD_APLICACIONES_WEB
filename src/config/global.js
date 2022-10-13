@@ -128,32 +128,33 @@ export default {
       referencia:
         'Gestión del riesgo en la seguridad informática. (2005). <em>Amenazas y vulnerabilidades</em>.',
       tipo: 'Artículo',
-      link: 'https://acortar.link/DxVxwr',
+      link:
+        'https://protejete.wordpress.com/gdr_principal/amenazas_vulnerabilidades/',
     },
     {
-      tema: 'identificación de riesgos',
+      tema: 'Identificación de riesgos',
       referencia: 'Icontec. (2013). ISO 2700. Icontec.',
       tipo: 'Página <em>web</em>',
       link: 'https://www.icontec.org/',
     },
     {
-      tema: 'identificación de riesgos',
+      tema: 'Identificación de riesgos',
       referencia:
-        'National Institute Of Standars and Technology. (2002). <em>Metodología NSIT SP 800-30</em>. NSIT.',
+        '<em>METODOLOGÍA PARA LA GESTIÓN DE LA SEGURIDAD INFORMÁTICA.</em> Oficina de Seguridad para las Redes Informáticas.',
       tipo: 'Artículo',
       link:
         'https://instituciones.sld.cu/dnspminsap/files/2013/08/Metodologia-PSI-NUEVAProyecto.pdf',
     },
     {
       tema: 'Auditoría infraestructura tecnológica',
-      referencia: 'Congreso de Colombia. (1999). Ley 527 de 1999.',
+      referencia: 'Congreso de Colombia. (2009). Ley 1273 de 2009.',
       tipo: 'Página <em>web</em>',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
     },
     {
       tema: 'Auditoría infraestructura tecnológica',
-      referencia: 'Congreso de Colombia. (1999). Ley 527 de 1999.',
+      referencia: 'Congreso de Colombia. (2009). Ley 1273 de 2009.',
       tipo: 'Página <em>web</em>',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
@@ -169,28 +170,30 @@ export default {
         'Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'DNP. (2011). Conpes 3701 de 2011.',
       tipo: 'Página <em>web</em>',
-      link: 'https://acortar.link/vVJlX8',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
     },
     {
       tema:
         'Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'DNP. (2016). Conpes 3854 de 2016.',
       tipo: 'Página <em>web</em>',
-      link: 'https://acortar.link/gtUi1u',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf',
     },
     {
       tema:
         'Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'OAS. (2001). Convenio de Budapest.',
       tipo: 'Página <em>web</em>',
-      link: 'https://acortar.link/lqGOIH',
+      link: 'https://www.oas.org/juridico/english/cyb_pry_convenio.pdf',
     },
   ],
   glosario: [
     {
       termino: 'Autenticación',
       significado:
-        'acto de establecimiento o confirmación de algo como auténtico. La autenticación de un objeto puede significar la confirmación de su procedencia, mientras que la autenticación de una persona a menudo consiste en verificar su identidad. La autenticación depende de uno o varios factores (educalingo, s. f.).',
+        'acto de establecimiento o confirmación de algo como auténtico. La autenticación de un objeto puede significar la confirmación de su procedencia, mientras que la autenticación de una persona a menudo consiste en verificar su identidad. La autenticación depende de uno o varios factores (Educalingo, s. f.).',
     },
     {
       termino: 'Base de datos',
@@ -205,7 +208,7 @@ export default {
     {
       termino: '<em>Log</em>',
       significado:
-        'registro oficial de eventos durante un periodo de tiempo en particular. Para los profesionales en seguridad informática un Log es usado para registrar datos o información sobre quién, qué, cuándo, dónde y por qué (<em>who, what, when, where y why</em>, W5) un evento ocurre para un dispositivo en particular o aplicación. La mayoría de los <em>logs</em> son almacenados o desplegados en el formato estándar, el cual es un conjunto de caracteres para dispositivos comunes y aplicaciones. De esta forma cada log generado por un dispositivo en particular puede ser leído y desplegado en otro diferente. A su vez la palabra <em>log</em> se relaciona con el término evidencia digital. Un tipo de evidencia física construida de campos magnéticos y pulsos electrónicos que pueden ser recolectados y analizados con herramientas y técnicas especiales, lo que implica la lectura del <em>log</em> y deja al descubierto la actividad registrada en el mismo (FGN, 2009).',
+        'registro oficial de eventos durante un periodo de tiempo en particular. Para los profesionales en seguridad informática un <em>Log</em> es usado para registrar datos o información sobre quién, qué, cuándo, dónde y por qué (<em>who, what, when, where y why</em>, W5) un evento ocurre para un dispositivo en particular o aplicación. La mayoría de los <em>logs</em> son almacenados o desplegados en el formato estándar, el cual es un conjunto de caracteres para dispositivos comunes y aplicaciones. De esta forma cada <em>log</em> generado por un dispositivo en particular puede ser leído y desplegado en otro diferente. A su vez la palabra <em>log</em> se relaciona con el término evidencia digital. Un tipo de evidencia física construida de campos magnéticos y pulsos electrónicos que pueden ser recolectados y analizados con herramientas y técnicas especiales, lo que implica la lectura del <em>log</em> y deja al descubierto la actividad registrada en el mismo (FGN, 2009).',
     },
     {
       termino: 'Redes',
@@ -282,12 +285,12 @@ export default {
     },
     {
       referencia:
-        'National Institute of Standars and Technology. (2002). Metodología PSI. NIST.',
+        'METODOLOGÍA PARA LA GESTIÓN DE LA SEGURIDAD INFORMÁTICA. Oficina de Seguridad para las Redes Informáticas.',
       link:
         'https://instituciones.sld.cu/dnspminsap/files/2013/08/Metodologia-PSI-NUEVAProyecto.pdf',
     },
     {
-      referencia: 'OAS. (2001). OAS.',
+      referencia: 'OAS. (2001). Convenio de Budapest.',
       link: 'https://www.oas.org/juridico/english/cyb_pry_convenio.pdf',
     },
     {
@@ -314,47 +317,47 @@ export default {
         nombre: 'Cesar Antonio Villamizar Núñez',
         cargo: 'Experto temático',
         centro:
-          'Región Norte de Santander - Centro de la industria, la empresa y los servicios',
+          'Centro de la industria, la empresa y los servicios, Región Norte de Santander',
       },
       {
         nombre: 'Hernando José Peña Hidalgo',
         cargo: 'Experto temático',
         centro:
-          'Regional Cauca, Centro de teleinformática y producción industrial',
+          'Centro de Teleinformática y producción industrial - Regional Cauca',
       },
       {
         nombre: 'Carlos Hernán Muñoz',
         cargo: 'Experto temático',
         centro:
-          'Regional Cauca, Centro de tele informática y Producción Industrial',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Danny Alejandro Solano',
         cargo: 'Experto temático',
         centro:
-          'Regional Cauca, Centro de tele informática y Producción Industrial',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'David Eduardo Lozada',
         cargo: 'Experto temático',
         centro:
-          'Regional Cauca, Centro de tele informática y Producción Industrial',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Paula Andrea Taborda Ortiz',
         cargo: 'Diseñadora instruccional',
         centro:
-          'Regional Norte de Santander, Centro de la Industria, la Empresa y Los Servicios CIES',
+          'Centro de la Industria, la Empresa y Los Servicios CIES, Regional Norte de Santander',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Asesora metodológica',
-        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital.',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
-        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología.',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital.',
       },
     ],
     desarrolloProducto: [

@@ -35,31 +35,31 @@
             td www
             td example
             td org
-            td.text-start organización sin ánimo de lucro.
+            td.text-start Organización sin ánimo de lucro.
           tr.text-center
             td https://
             td www
             td example
             td co
-            td.text-start dirección de dominio Colombia.
+            td.text-start Dirección de dominio Colombia.
           tr.text-center(style="background-color: #F6F6F6")
             td https://
             td www
             td example
             td blog
-            td.text-start dirección de blog.
+            td.text-start Dirección de blog.
           tr.text-center
             td https://
             td example
             td co
             td uk
-            td.text-start dominio de tercer o cuarto nivel.
+            td.text-start Dominio de tercer o cuarto nivel.
           tr.text-center(style="background-color: #F6F6F6")
             td https://
             td en
             td example
             td org
-            td.text-start dirección para proyecto <em>web</em>.
+            td.text-start Dirección para proyecto <em>web</em>.
     p.mb-5(data-aos="fade-right") Así como la tabla de los dominios, se deben tener en cuenta los protocolos de aplicaciones oficiales de internet que se pueden usar.
 
 

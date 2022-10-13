@@ -22,7 +22,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h3.texto-blanco.mb-1 Guía de gestión de riesgos MinTIC
-              p.text-small.texto-blanco(style="max-width: 791px") Conozca la guía de gestión de riesgos del Ministerio de Tecnologías de la información y las comunicaciones (MinTic) de Colombia.
+              p.text-small.texto-blanco(style="max-width: 791px") Conozca la guía de gestión de riesgos del Ministerio de Tecnologías de la información y las comunicaciones (MinTIC) de Colombia.
             .col-sm-auto
               a.boton.color-acento-botones.texto-negro.px-4(href="https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf" target="_blank")
                 span Ir al enlace
@@ -40,6 +40,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h3.texto-blanco.mb-1 Norma ISO 27005
+              p.text-small.texto-blanco La prevención de los riesgos se origina del análisis de las amenazas y vulnerabilidades que se detectan en la organización. La norma ISO 27005 contiene recomendaciones y normas que se deben llevar a cabo o tener en cuenta en los proyectos de aplicaciones web y que sirve de control ante futuras amenazas o riesgos informáticos.
             .col-sm-auto
               a.boton.color-acento-botones.texto-negro.px-4(href="https://sisteseg.com/blog/wp-content/uploads/2018/11/Metodologia-para-Gesti%C3%B3n-de-Riesgos-V-1.0.pdf" target="_blank")
                 span Ir al enlace
@@ -69,7 +70,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Matriz Riesgos
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/matrizRiesgos_pdf.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/matrizRiesgos_pdf.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -166,7 +167,7 @@
               <svg style="max-width: 13px" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
                 <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#3bc192"/>
               </svg>
-              p.mb-0.ps-3.fw-bold SIsoMetriz y otras.
+              p.mb-0.ps-3.fw-bold IsoMetriz y otras.
     p.mb-5(data-aos="fade-right") Un informe de valoración de riesgos debe contener:
 
     .d-flex.flex-wrap.align-items-stretch
