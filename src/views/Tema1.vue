@@ -47,7 +47,7 @@
             img(src='@/assets/curso/temas/tema1/icon-1.svg' alt='AvatarTop')
           .d-flex.align-items-center.tarjeta.tarjeta--azul(style="background-color: #B3C0F3; border: 2px solid #899EF0;")
             .p-4
-              p.mb-0 La confidencialidad previene la divulgación de datos personales delicados cumpliendo con la normatividad legal del habeas data.
+              p.mb-0 La confidencialidad previene la divulgación de datos personales delicados cumpliendo con la normatividad legal del <em>habeas data</em>.
         .tarjeta-avatar-b.mb-4
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/icon-2.svg' alt='AvatarTop')
