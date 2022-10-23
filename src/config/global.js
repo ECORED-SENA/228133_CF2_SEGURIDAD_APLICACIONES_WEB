@@ -163,7 +163,8 @@ export default {
       tema: 'Auditoría infraestructura tecnológica',
       referencia: 'Congreso de Colombia. (2012). Ley 1581 de 2012.',
       tipo: 'Página <em>web</em>',
-      link: 'https://acortar.link/DB9gGZ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       tema:
