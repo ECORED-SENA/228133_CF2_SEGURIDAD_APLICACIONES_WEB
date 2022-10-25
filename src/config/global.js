@@ -157,7 +157,7 @@ export default {
       referencia: 'Congreso de Colombia. (2009). Ley 1273 de 2009.',
       tipo: 'Página <em>web</em>',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
+        'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
     },
     {
       tema: 'Auditoría infraestructura tecnológica',
