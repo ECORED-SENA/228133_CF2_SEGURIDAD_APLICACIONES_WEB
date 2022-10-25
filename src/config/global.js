@@ -147,7 +147,7 @@ export default {
     },
     {
       tema: 'Auditoría infraestructura tecnológica',
-      referencia: 'Congreso de Colombia. (2009). Ley 1273 de 2009.',
+      referencia: 'Congreso de Colombia. (1999). Ley 527 de 1999.',
       tipo: 'Página <em>web</em>',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
@@ -318,13 +318,13 @@ export default {
         nombre: 'Cesar Antonio Villamizar Núñez',
         cargo: 'Experto temático',
         centro:
-          'Centro de la industria, la empresa y los servicios, Región Norte de Santander',
+          'Centro de la Industria, la Empresa y los Servicios, Regional Norte de Santander',
       },
       {
         nombre: 'Hernando José Peña Hidalgo',
         cargo: 'Experto temático',
         centro:
-          'Centro de Teleinformática y producción industrial - Regional Cauca',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Carlos Hernán Muñoz',
